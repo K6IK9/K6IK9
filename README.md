@@ -17,6 +17,8 @@ Olá! 👋 Sou [Kaike Matos](https://github.com/K6IK9), sou curioso em tecnoligi
 
 ## Projetos Destacados
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/K6IK9/bbfce31e0217a3689c8d961a356cb10d/)
+
 ### [ILUSION](https://k6ik9.github.io/Ilusin/) ![logo_ilusion_250](https://github.com/K6IK9/K6IK9/assets/123702490/40ca71fe-2f2f-4959-89e2-7a5a54a2226e)
 
 Trata-se de uma plataforma que busca ligar pessoas que necessitem de serviços dos mais diversos tipos, mantendo a praticidade e segurança dos mais altos padrões Ilusion, além de possibilitar pessoas divulgarem e venderem o seu serviço ou até mesmo proporcionar o cliente uma avaliação referente ao serviço desejado, para contrução do site foi utilizados **HTML CSS E JAVASCRIPT** e com este projeto foi realizado apresentação sobre a ideia e como foi realizado a conctrução do mesmo e 
@@ -30,11 +32,11 @@ Finalidade de apresentar sobre mim(Kaike Matos), mostrar projetos feito e contru
 ---
 
 ## Estatísticas do GitHub
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K6IK9&layout=donut)](https://github.com/K6IK9/github-readme-stats)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=K6IK9&show_icons=true&theme=radical)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
