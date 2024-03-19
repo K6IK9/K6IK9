@@ -1,50 +1,46 @@
 
----
-
-# Sobre Mim ✨
-
-Olá! Sou [Kaike Matos](https://github.com/K6IK9) 👋 , sou curioso em tecnoligia e apaixonado por desenvolvimento de software e um aprendiz do [Gustavo Guanabara](https://github.com/gustavoguanabara).
+# Hello! I'am [Kaike Matos](https://github.com/K6IK9) 👋 
+I am curious about technology and passionate about software development, and I am a learner of the [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
 ---
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
-- Linguagens de Programação: Python, JavaScript, C, PHP
-- Linguagens de Marcação: Html, Css
-- Banco de Dados: MySQL
+- Programming Languages: Python, JavaScript, C, PHP
+- Markup Languages: Html, Css
+- Databases: MySQL
 
 ---
 
-## Projetos Destacados
+## Projects
 
 
 
 ### [ILUSION](https://k6ik9.github.io/Ilusin/) <img src="https://github.com/K6IK9/K6IK9/assets/123702490/40ca71fe-2f2f-4959-89e2-7a5a54a2226e" width="25">
 
-Trata-se de uma plataforma que busca ligar pessoas que necessitem de serviços dos mais diversos tipos, mantendo a praticidade e segurança dos mais altos padrões Ilusion, além de possibilitar pessoas divulgarem e venderem o seu serviço ou até mesmo proporcionar o cliente uma avaliação referente ao serviço desejado, para contrução do site foi utilizados **HTML CSS E JAVASCRIPT** e com este projeto foi realizado apresentação sobre a ideia e como foi realizado a conctrução do mesmo e 
-com isso posteriomente uma possível iniciativa sobre o projeto.
+It is a platform that aims to connect people in need of various types of services while maintaining the convenience and security of the highest Ilusion standards. It also allows individuals to promote and sell their services or even provide customers with an evaluation of the desired service. For the website construction, **HTML, CSS, and JavaScript** were used. A presentation was made about the idea and how the construction of the platform was carried out, and this may lead to a potential initiative regarding the project in the future.
 
 
 ### [Portfolio](https://k6ik9.github.io/Portfolio/)  <img src="https://raw.githubusercontent.com/K6IK9/Portfolio/main/img/favicon.ico" width="20">
 
-Finalidade de apresentar sobre mim(Kaike Matos), mostrar projetos feito e contruir com habilidade já adquiridos, como feito o site com **HTML CSS E JAVASCRIPT**, com isso saber que um passo foi dado ao saber que tenho um próprio site.
+The purpose of presenting about myself (Kaike Matos) is to showcase projects that have been completed and built using the skills already acquired, such as creating the website with **HTML, CSS, and JavaScript**. This demonstrates that progress has been made, as I now have my own website.
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K6IK9&layout=donut&theme=radical)](https://github.com/K6IK9/github-readme-stats)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=K6IK9&show_icons=true&theme=radical)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=K6IK9&show_icons=true&theme=radical)
 
 
 ---
 
-## Contato
+## Contact
 
 - LinkedIn: [Kaike Matos](https://www.linkedin.com/in/kaike-matos-b55478222/)
 - Email: kaikematos50@gmail.com
-- Portfólio: [Kaike Matos](https://k6ik9.github.io/Portfolio/)
+- Portfolio: [Kaike Matos](https://k6ik9.github.io/Portfolio/)
 
 ---
 
-Obrigado por visitar o meu perfil! Entre em contato para qualquer finalidade 😊
+You're welcome for visiting my profile! Feel free to reach out for any purpose.😊
