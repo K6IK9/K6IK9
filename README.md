@@ -27,7 +27,7 @@ The purpose of presenting about myself (Kaike Matos) is to showcase projects tha
 
 ---
 
-## GitHub Statistics
+## GitHub Statistics 🧮
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K6IK9&layout=donut&theme=radical)](https://github.com/K6IK9/github-readme-stats)
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=K6IK9&show_icons=true&theme=radical)
@@ -35,7 +35,7 @@ The purpose of presenting about myself (Kaike Matos) is to showcase projects tha
 
 ---
 
-## Contact
+## Contact ☎️
 
 - LinkedIn: [Kaike Matos](https://www.linkedin.com/in/kaike-matos-b55478222/)
 - Email: kaikematos50@gmail.com
