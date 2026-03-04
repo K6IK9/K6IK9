@@ -32,9 +32,12 @@ My personal portfolio showcasing projects, experience, tech stack, and certifica
 ---
 
 ## 📊 GitHub Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K6IK9&layout=donut&theme=radical)](https://github.com/K6IK9/github-readme-stats)
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=K6IK9&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=K6IK9&layout=donut&theme=radical)](https://github.com/K6IK9)
+
+![GitHub Statistics](https://github-readme-stats-fast.vercel.app/api?username=K6IK9&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=K6IK9&theme=radical)](https://git.io/streak-stats)
 
 ---
 
