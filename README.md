@@ -17,7 +17,7 @@ Robotic Process Automation Developer, Back-end Developer, and Process Automation
 
 ## 🚀 Projects
 
-### [AeVALIS.SGAD](https://github.com/K6IK9/AeVALIS.SGAD) 🎓
+### [AeVALIS.SGAD](https://aevalis-sgad.vercel.app/accounts/login/?next=/) 🎓
 
 **Sistema de Avaliação Docente** — A full-stack web application built with **Django 5 + PostgreSQL** for the Instituto Federal de Mato Grosso (IFMT). The system manages the complete cycle of teacher performance evaluations by students, following Resolution 87/2023. Features include SUAP OAuth2 authentication, role-based access control (Admin, Coordinator, Professor, Student), anonymous evaluations, customizable questionnaires, automated email reminders via SendGrid, soft delete for data preservation, and responsive UI. Deployed on **Vercel** with serverless functions. A challenging and rewarding project from start to finish.
 
